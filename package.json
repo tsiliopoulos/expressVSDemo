@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tom Tsiliopoulos",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsiliopoulos/expressVSDemo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tsiliopoulos/expressVSDemo/issues"
+  },
+  "homepage": "https://github.com/tsiliopoulos/expressVSDemo#readme"
 }
